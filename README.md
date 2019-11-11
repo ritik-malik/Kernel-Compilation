@@ -1,4 +1,4 @@
-# Refurbishing-Kernel
+# Refurbishing Kernel
 So, here's the snapshots if you want a custom kernel configuration.
 Just follow the steps. Also, appending your name to kernel's name is optional, its just to distinguish it from old kernel.
 Otherwise, linux automatically adds .old to old kernel.
