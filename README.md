@@ -1,7 +1,7 @@
 # Refurbishing Kernel
 So, here's the snapshots if you want a custom kernel configuration.
 Just follow the steps. Also, appending your name to kernel's name is optional, its just to distinguish it from old kernel.
-Otherwise, linux automatically adds .old to old kernel.
+Otherwise, linux automatically adds .old to old kernel. I would recommend doing it in VMware or Virtual Box before the main system.
 ## IMPORTANT
 I have used Ubuntu server 14.10, Utopic Unicorn whose LTS is now over. The version is outdated & no support is available officially. So I have changed my sources.list from old ubuntu release, else it won't install necessary packages.
 ## ALSO IMPORTANT
